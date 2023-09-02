@@ -1,13 +1,10 @@
-# Build Your Own World Design Document
+# Nuggets! An Avatar Exploration Game
 
-**Partner 1:**
+### Created by Minami Yamaura and Alina Herri
 
-**Partner 2:**
+## How to Play:
+1. Run byow/Core/Main.java in IntelliJ
+2. Type "N" to start a new game.
+3. Input any number followed by an "S" to start playing. 
 
-## Classes and Data Structures
-
-## Algorithms
-
-## Persistence
-echo # nuggets
-# nuggets
+    (This will be the seed that will pseudorandomly     generate your world layout.)
