@@ -9,3 +9,5 @@
 ## Algorithms
 
 ## Persistence
+echo # nuggets
+# nuggets
